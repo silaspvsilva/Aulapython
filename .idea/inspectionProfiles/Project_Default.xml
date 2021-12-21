@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="TESTE.selenium" />
+          <option value="pages.header_page" />
+          <option value="pythonProject.steps.busca_steps.pages" />
+          <option value="pythonProject.steps.busca_steps.utils" />
+          <option value="pythonProject.pages.header_page.browser" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
